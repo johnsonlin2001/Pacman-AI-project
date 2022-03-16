@@ -1,6 +1,6 @@
 # Pacman-AI-project
 
-Please download the repository and run the following command to see a demo of my implementation:
+Please download the repository and run the following command to see a demo of my search agent implementation:
 <br />
 -python3 pacman.py -p MultiPacmanAgent -a depth=3 -g DirectionalGhost
 
